@@ -1,0 +1,13 @@
+name: geneexpression
+title: geneexpression
+username:
+account: z8wpci-abhirup-moitra
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6382631
+bundleId: 5950201
+url: https://z8wpci-abhirup-moitra.shinyapps.io/geneexpression/
+when: 1653631986.90038
+lastSyncTime: 1653631986.90038
+asMultiple: FALSE
+asStatic: FALSE

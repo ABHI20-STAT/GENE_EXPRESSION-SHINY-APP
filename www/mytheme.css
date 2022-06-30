@@ -1,0 +1,17 @@
+body {
+    background-color:black;
+    font-size: 1.80em;
+    color: yellow;
+}
+ 
+h2, h3, h4, h5, h6, h7 {
+    margin: 0.5em 0 0.4em;
+    padding: 0;
+    letter-spacing: 1px;
+} 
+ 
+a {
+    color: #bb0011;
+    text-decoration: none;
+}
+ 
